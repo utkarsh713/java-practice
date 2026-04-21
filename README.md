@@ -19,6 +19,9 @@ class EvenOdd
             System.out.println("Number is Odd");
         }
     }
+
+
+    
 class Palindrome {
     public static void main(String[] args) {
         int n=121,r,sum=0,temp=n;
