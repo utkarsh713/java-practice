@@ -9,6 +9,7 @@ class EvenOdd
     {
 
 
+
     
         Scanner sc = new Scanner(System.in)
         
