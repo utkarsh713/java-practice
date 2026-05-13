@@ -17,7 +17,7 @@ class EvenOdd
         {
             System.out.println("Number is Odd");
         }
-    }
+    } 
 
 
     
