@@ -1,6 +1,5 @@
 # java-practice. 
 
-
 import java.util.Scanner;
 class EvenOdd
 {
