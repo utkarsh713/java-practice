@@ -13,7 +13,7 @@ class EvenOdd
         { 
             System.out.println("Number is Even");
         }
-        else
+        else 
         {
             System.out.println("Number is Odd");
         }
