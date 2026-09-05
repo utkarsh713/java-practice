@@ -16,7 +16,7 @@ class EvenOdd
             System.out.println("Number is Odd");
         }
     } 
-    
+     
        
 class Palindrome {
     public static void main(String[] args) {
