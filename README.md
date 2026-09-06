@@ -29,7 +29,7 @@ class Palindrome {
         System.out.println(temp==sum ? "Palindrome":"Not");
     }
 }
-
+  
 Calculator
 
 import java.util.Scanner;
